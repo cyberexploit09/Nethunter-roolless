@@ -1,0 +1,5 @@
+you can download kali nethunter iso file 
+then rename it "kalifs-arm64-full.tar.xz"
+and move files to the your storage from termux home directory 
+then change the permission installer file with command "chmod +x install-Nethunter-termux" and ./install-Nethunter-termux ask anything always Press "N"
+wait for extraction of rootfs file done 👍✅
